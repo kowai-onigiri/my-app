@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL:](https://github.com/kowai-onigiri/my-app)
-- [Live Site URL:](https://kowai-onigiri.github.io/my-app/)
+- [Solution URL](https://github.com/kowai-onigiri/my-app)
+- [Live Site URL](https://626202229bdc5a7b61c7fbcd--gentle-selkie-656702.netlify.app/)
 
 ## My process
 
